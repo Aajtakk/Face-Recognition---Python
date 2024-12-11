@@ -3,7 +3,7 @@
 import cv2
 
 # Load the image
-image =cv2.imread("D:\\Pammi\\Python\\Programs\\Face.png")
+image =cv2.imread("D:\\Python\\Programs\\Face.png")
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
 
 # Verify if the image was loaded
