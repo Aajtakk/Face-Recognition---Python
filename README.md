@@ -6,7 +6,7 @@ Python-based face recognition program that uses OpenCV to detect faces in an ima
 ## Dataset Used
 - <a href="https://github.com/Aajtakk/Face-Recognition---Python">Dataset</a>
 
-## Face-Recognition Screenshot
+## Face-Recognition-Output Screenshot
 ![Face-Recognition_Output](https://github.com/user-attachments/assets/ca4b3596-0512-4cac-bd66-68dcb151e55f)
 
 ## Features
